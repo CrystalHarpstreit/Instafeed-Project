@@ -1,0 +1,11 @@
+#instafeed {
+  max-width: 980px;
+}
+
+li {
+  list-style: none;
+  float: left;
+  width: 200px;
+  padding: 20px 0px 20px 20px;
+}
+
